@@ -1,0 +1,6 @@
+@AzureAITextTranslationAPI_Sample_HostAddress = http://localhost:5106
+
+GET {{AzureAITextTranslationAPI_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
